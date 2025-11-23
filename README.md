@@ -5,7 +5,7 @@ ________________________________________
 Zawartość repozytorium
 •	sales_data.csv – syntetyczny zbiór danych sprzedażowych
 •	dashboard_screenshots/ – zrzuty ekranu dashboardu Power BI
-•	(opcjonalnie) Sales_Dashboard.pbix – plik raportu Power BI
+• Sales_Dashboard.pbix – plik raportu Power BI
 ________________________________________
 Użyte technologie
 •	Power BI
